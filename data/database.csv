@@ -1,0 +1,405 @@
+Make,Model,Horsepower,Torque,Transmission,Drivetrain,Consumption,Doors,Price,Year,Body,Engine,Cylinders
+Ferrari,812 Superfast,789,530,Automatic,RWD,18.09,2,"366,712",2018,Coupe,6.5L V12,12
+Ferrari,F8 Tributo,710,568,Automatic,RWD,7.84,2,"276,550",2020,Coupe,3.9L V8,8
+Ferrari,Roma,611,560,Automatic,RWD,14.71,2,"218,750",2021,Coupe,3.9L V8,8
+Ferrari,Portofino M,612,561,Automatic,RWD,14.55,2,"254,475",2021,Convertible,3.9L V8,8
+Ferrari,SF90 Stradale,986,590,Automatic,AWD,13.07,2,"625,000",2020,Coupe,4.0L V8,8
+Ferrari,488 Pista,711,568,Automatic,RWD,15.68,2,"350,050",2019,Coupe,3.9L V8,8
+Ferrari,GTC4Lusso,680,514,Automatic,AWD,19.6,4,"298,750",2017,Hatchback,6.3L V12,12
+Ferrari,488 GTB,661,561,Automatic,RWD,13.64,2,"262,647",2016,Coupe,3.9L V8,8
+Ferrari,California T,553,557,Automatic,RWD,15.61,2,"202,723",2015,Convertible,3.9L V8,8
+Ferrari,LaFerrari,950,664,Automatic,RWD,13.07,2,"1,420,000",2014,Coupe,6.3L V12,12
+Mahindra,XUV300,109,271,Manual,FWD,7.66,5,"10,145",2019,SUV,"1.2L Turbo Petrol, 1.5L Turbo Diesel",4
+Mahindra,Scorpio,140,400,Manual,RWD,13.89,5,"14,550",2020,SUV,2.2L mHawk Diesel,4
+Mahindra,Thar,152,320,Manual,4WD,13.07,4,"14,485",2020,SUV,2.0L Turbo Petrol,4
+Mahindra,Thar,132,300,Manual,4WD,13.07,4,"9,030",2020,SUV,2.2L mHawk Diesel,4
+Mahindra,Bolero,75,280,Manual,RWD,19.23,5,"12,260",2001,SUV,1.5L mHawk75 Diesel,3
+Mahindra,Marazzo,121,370,Manual,FWD,16.35,7,"30,235",2018,MPV,1.5L mHawk Diesel,4
+Mahindra,Alturas G4,178,500,Automatic,AWD,12.73,5,"30,087",2018,SUV,2.2L mHawk Diesel,4
+Toyota,Camry,256,230,Automatic,FWD,7.84,4,"22,875",2018,Sedan,2.5L 4-cylinder / 3.5L V6,4
+Toyota,Corolla,169,151,Automatic,FWD,7.84,4,"31,790",2019,Sedan,2.0L 4-cylinder,4
+Toyota,RAV4,210,220,Automatic,FWD,10,4,"41,157",2019,SUV,2.5L 4-cylinder,4
+Toyota,Highlander,295,263,Automatic,FWD,12,4,"43,755",2019,SUV,3.5L V6,6
+Toyota,4Runner,270,278,Automatic,RWD,15.68,4,"36,465",2018,SUV,4.0L V6,6
+Toyota,Tacoma,210,220,Automatic,RWD,17.35,2,"42,835",2019,Pickup truck,2.7L 4-cylinder / 3.5L V6,4
+Toyota,Tundra,381,401,Automatic,RWD,12.73,2,"45,122",2018,Pickup truck,5.7L V8,8
+Ford,Mustang,410,550,Automatic,RWD,15.35,2,"49,882",2015,Coupe/Convertible,Gasoline V6/V8,6
+Ford,F-150,320,410,Automatic,RWD,11.11,2,"44,112",2015,Pickup Truck,"Gasoline V6/V8, Diesel V6",6
+Ford,Explorer,300,352,Automatic,FWD,7.66,4,"33,262",2015,SUV,"Gasoline I4/V6, Hybrid V6",4
+Ford,Escape,200,230,Automatic,FWD,8.81,4,"37,825",2015,SUV,"Gasoline I3/I4, Hybrid I4",4
+Ford,Edge,250,330,Automatic,FWD,15,4,"33,740",2015,SUV,Gasoline I4/V6,4
+Ford,Ranger,270,310,Automatic,RWD,12.73,4,"32,490",2019,Pickup Truck,Gasoline I4,4
+Ford,Bronco Sport,200,227,Automatic,4WD,14.55,4,"48,500",2021,SUV,Gasoline I3/I4,4
+Chevrolet,Camaro,310,530,Automatic,RWD,10.95,2,"92,500",2010,Coupe,Gasoline,4
+Chevrolet,Corvette,610,600,Automatic,RWD,7.84,2,"15,100",2021,"Coupe, Convertible",Gasoline,6
+Chevrolet,Spark,98,94,CVT,FWD,8.81,4,"39,100",2013,Hatchback,Gasoline,4
+Chevrolet,Bolt EV,200,266,Electric,FWD,8.81,4,"30,000",2017,Hatchback,Electric,0
+Chevrolet,Equinox,180,222,Automatic,FWD,15.68,4,"63,850",2005,SUV,Gasoline,4
+Chevrolet,Suburban,355,383,Automatic,RWD,17.35,4,"62,000",2021,SUV,Gasoline,6
+Chevrolet,Tahoe,355,420,Automatic,RWD,7.84,4,"44,000",2021,SUV,Gasoline,6
+Chevrolet,Silverado 1500,285,405,Automatic,RWD,18.97,4,"35,500",2021,Truck,Gasoline,6
+Chevrolet,Colorado,230,310,Automatic,RWD,14.71,4,"30,888",2021,Truck,"Gasoline, Diesel",6
+Nissan,Altima,188,220,CVT,FWD,14.29,4,"22,700",2019,Sedan,Gasoline,4
+Nissan,Maxima,300,261,CVT,FWD,13.16,4,"17,995",2019,Sedan,Gasoline,6
+Nissan,Sentra,160,160,CVT,FWD,7.84,4,"30,205",2019,Sedan,Gasoline,4
+Nissan,Versa,122,114,CVT,FWD,10.95,4,"38,820",2019,Sedan,Gasoline,4
+Nissan,Rogue,181,181,CVT,FWD,13.33,4,"39,140",2019,SUV,Gasoline,4
+Nissan,Murano,260,240,CVT,FWD,7.66,4,"60,675",2019,SUV,Gasoline,6
+Nissan,Pathfinder,284,259,Automatic,FWD,7.66,4,"162,140",2019,SUV,Gasoline,6
+Nissan,Armada,390,394,Automatic,RWD,7.66,4,"35,400",2019,SUV,Gasoline,8
+Nissan,GT-R,565,467,Automatic,AWD,7.66,2,"43,000",2019,Sports Car,Gasoline,6
+BMW,X1 sDrive28i,228,258,Automatic,FWD,7.66,4,"60,700",2020,SUV,Turbocharged Gasoline I4,4
+BMW,X3 xDrive30i,248,258,Automatic,AWD,7.66,4,"42,250",2020,SUV,Turbocharged Gasoline I4,4
+BMW,X5 xDrive40i,335,330,Automatic,AWD,7.66,4,"56,400",2020,SUV,Turbocharged Gasoline I6,6
+BMW,330i Sedan,255,295,Automatic,RWD,7.66,4,"86,800",2020,Sedan,Turbocharged Gasoline I4,4
+BMW,530i Sedan,248,258,Automatic,RWD,7.66,4,"73,100",2020,Sedan,Turbocharged Gasoline I4,4
+BMW,740i Sedan,335,330,Automatic,RWD,8.81,4,"142,500",2020,Sedan,Turbocharged Gasoline I6,6
+BMW,M4 Coupe,473,406,Manual,RWD,8.81,2,"43,200",2020,Coupe,Twin-Turbocharged Gasoline I6,6
+BMW,M8 Convertible,600,553,Automatic,AWD,7.84,2,"55,300",2020,Convertible,Twin-Turbocharged Gasoline V8,8
+Mercedes-Benz,C-Class,255,273,Automatic,RWD,14.55,4,"109,800",2022,Sedan,Inline-4,4
+Mercedes-Benz,E-Class,255,273,Automatic,RWD,14.71,4,"131,750",2022,Sedan,Inline-4,4
+Mercedes-Benz,S-Class,429,384,Automatic,AWD,15.68,4,"43,200",2022,Sedan,V-8,8
+Mercedes-Benz,G-Class,416,450,Automatic,AWD,19.23,4,"33,300",2022,SUV,V-8,8
+Mercedes-Benz,GLC-Class,255,273,Automatic,RWD,17.35,4,"39,100",2022,SUV,Inline-4,4
+Audi,A3,184,221,Manual,FWD,15.35,4,"44,000",2019,Sedan,2.0 L 4-cylinder,4
+Audi,A4,201,236,Manual,AWD,13.07,4,"36,000",2016,Sedan,2.0 L 4-cylinder,4
+Audi,A5,261,273,Manual,AWD,10.95,2,"44,100",2018,Coupe,2.0 L 4-cylinder,4
+Audi,Q3,228,258,Automatic,AWD,13.16,4,"54,950",2019,SUV,2.0 L 4-cylinder,4
+Audi,Q5,261,273,Manual,AWD,7.84,4,"23,195",2018,SUV,2.0 L 4-cylinder,4
+Audi,Q7,248,273,Automatic,AWD,11.76,4,"18,995",2017,SUV,2.0 L 4-cylinder,4
+Volkswagen,Golf,200,223,Automatic,FWD,15.09,2,"24,990",2022,Hatchback,"Gasoline, Diesel",4
+Volkswagen,Jetta,170,219,Automatic,FWD,13.51,4,"31,545",2022,Sedan,Gasoline,4
+Volkswagen,Passat,174,230,Automatic,FWD,12.73,4,"25,245",2022,Sedan,"Gasoline, Diesel",4
+Volkswagen,Atlas,235,258,Automatic,FWD,13.51,4,"62,000",2022,SUV,"Gasoline, Hybrid",4
+Volkswagen,Tiguan,184,221,Automatic,FWD,13.51,4,"61,500",2022,SUV,Gasoline,4
+Porsche,718 Boxster,300,280,Manual,RWD,13.89,2,"101,200",2021,Convertible,Turbocharged flat-4,4
+Porsche,718 Cayman,300,280,Manual,RWD,7.84,2,"87,200",2021,Coupe,Turbocharged flat-4,4
+Porsche,911,650,331,8-speed pdk,AWD,7.84,2,"67,500",2021,Coupe/Convertible,Twin-turbocharged flat-6,6
+Porsche,Panamera,325,331,8-speed pdk,AWD,7.84,4,"52,100",2021,Sedan,Turbocharged V6,6
+Porsche,Cayenne,335,332,8-speed tiptronic s,AWD,12.73,4,"332,500",2021,SUV,Turbocharged V6,6
+Porsche,Macan,248,273,7-speed pdk,AWD,12.73,4,"338,700",2021,SUV,Turbocharged inline-4,4
+Rolls-Royce,Ghost,563,605,Automatic,RWD,8.81,4,"346,300",2021,Sedan,V12,12
+Rolls-Royce,Wraith,624,590,Automatic,RWD,8.81,2,"455,000",2021,Coupe,V12,12
+Rolls-Royce,Dawn,563,605,Automatic,RWD,14.71,4,"341,125",2021,Convertible,V12,12
+Rolls-Royce,Phantom,563,664,Automatic,RWD,15.35,4,"160,000",2021,Sedan,V12,12
+Rolls-Royce,Cullinan,563,627,Automatic,AWD,13.33,4,"192,500",2021,SUV,V12,12
+McLaren,540C,533,398,Automatic,RWD,11.11,2,"202,950",2018,Coupe,V8,8
+McLaren,570S,562,443,Automatic,RWD,7.84,2,"242,500",2018,Coupe,V8,8
+McLaren,570GT,562,443,Automatic,RWD,7.84,2,"299,000",2018,Coupe,V8,8
+McLaren,600LT,592,457,Automatic,RWD,14.29,2,"225,000",2019,Coupe,V8,8
+McLaren,720S,710,568,Automatic,RWD,7.84,2,"162,140",2020,Coupe,V8,8
+McLaren,Artura,671,531,Automatic,RWD,8.81,2,"42,075",2022,Coupe,V6,6
+Lexus,ES,230,213,Automatic,FWD,7.66,4,"51,913",2022,Sedan,Gasoline/Electric,4
+Lexus,IS,241,258,Automatic,RWD,7.84,4,"79,413",2022,Sedan,Gasoline,4
+Lexus,GS,241,270,Automatic,RWD,7.84,4,"36,900",2020,Sedan,Gasoline,4
+Lexus,LS,416,442,Automatic,RWD,13.33,4,"43,353",2022,Sedan,Gasoline/Hybrid,4
+Lexus,UX,169,151,CVT,FWD,12.73,4,"47,845",2022,SUV,Gasoline/Hybrid,4
+Lexus,NX,235,258,Automatic,FWD,12.73,4,"59,295",2022,SUV,Gasoline/Hybrid,4
+Lexus,RX,290,263,Automatic,FWD,12.73,4,"94,395",2022,SUV,Gasoline/Hybrid,4
+Lexus,GX,301,329,Automatic,4WD,12,4,"23,875",2022,SUV,Gasoline,8
+Lexus,LX,383,403,Automatic,4WD,13.16,4,"29,475",2022,SUV,Gasoline,8
+Hyundai,Elantra,147,132,Automatic,FWD,13.16,4,"31,150",2022,Sedan,Inline-4,4
+Hyundai,Sonata,191,181,Automatic,FWD,12,4,"35,614",2022,Sedan,"Inline-4, Inline-4 Hybrid, Inline-6",4
+Hyundai,Tucson,161,150,Automatic,FWD,7.16,4,"24,950",2022,SUV,"Inline-4, Inline-4 Hybrid",4
+Hyundai,Santa Fe,191,250,Automatic,FWD,11.76,4,"33,700",2022,SUV,"Inline-4, Inline-4 Hybrid, V6",4
+Hyundai,Kona,160,132,Automatic,FWD,13.45,4,"23,640",2022,SUV,"Inline-4, Inline-4 EV",4
+Hyundai,Accent,120,113,CVT,FWD,11.2,4,"28,573",2021,Sedan,Gasoline,4
+Hyundai,Palisade,291,262,Automatic,FWD,9.05,4,"44,573",2022,SUV,Gasoline,6
+Kia,Forte,147,132,Manual,FWD,10.53,4,"35,990",2022,Sedan,2.0L 4-cylinder or 1.6L turbocharged 4-cylinder,4
+Kia,Optima,230,210,Automatic,FWD,9.05,4,"23,770",2021,Sedan,"2.4L 4-cylinder, 1.6L turbocharged 4-cylinder, or 2.0L turbocharged 4-cylinder",4
+Kia,Stinger,270,330,Automatic,RWD,9.79,4,"23,770",2022,Sedan,2.0L turbocharged 4-cylinder or 3.3L twin-turbocharged V6,4
+Kia,Sorento,210,260,Automatic,FWD,8.71,4,"40,340",2022,SUV,"2.4L 4-cylinder, 2.5L turbocharged 4-cylinder, or 3.3L V6",4
+Kia,Soul,160,166,Manual,FWD,14.61,4,"26,830",2022,Hatchback,2.0L 4-cylinder or 1.6L turbocharged 4-cylinder,4
+Kia,Telluride,291,262,Automatic,FWD,16.34,4,"20,650",2022,SUV,3.8L V6,6
+Mazda,MX-5,181,151,Manual,RWD,18.53,2,"24,325",2022,Convertible,Gasoline,4
+Mazda,Mazda3,170,223,Automatic,FWD,18.88,4,"20,640",2022,"Sedan, Hatchback",Gasoline,4
+Mazda,Mazda6,200,270,Automatic,FWD,7.16,4,"25,270",2022,Sedan,Gasoline,4
+Mazda,CX-3,146,146,Automatic,FWD,12.4,4,"35,060",2022,SUV,Gasoline,4
+Mazda,CX-5,187,292,Automatic,FWD,14.94,4,"32,295",2022,SUV,Gasoline,4
+Mazda,CX-9,227,310,Automatic,FWD,9.05,4,"18,795",2022,SUV,Gasoline,4
+Subaru,Ascent,260,277,CVT,AWD,11.52,4,"22,995",2022,SUV,H4,4
+Subaru,Impreza,152,145,Manual,AWD,9.05,4,"26,795",2022,Hatchback,H4,4
+Subaru,Legacy,182,176,CVT,AWD,11.2,4,"28,845",2022,Sedan,H4,4
+Subaru,Outback,182,176,CVT,AWD,11.2,4,"27,495",2022,Wagon/SUV,H4,4
+Subaru,BRZ,205,156,Manual,RWD,11.2,2,"22,245",2022,Coupe,H4,4
+Subaru,WRX,268,258,Manual,AWD,12.4,4,"36,395",2022,Sedan,H4,4
+Subaru,Crosstrek,152,145,CVT,AWD,11.93,4,"30,495",2022,Wagon/SUV,H4,4
+Subaru,Crosstrek Hybrid,255,134,CVT,AWD,10.53,4,"27,040",2022,Wagon/SUV,H4,4
+Mitsubishi,Outlander,166,162,CVT,FWD,10.53,4,"15,645",2022,SUV,2.4L I4,4
+Mitsubishi,Eclipse Cross,152,184,CVT,FWD,17.13,4,"16,645",2022,SUV,1.5L I4,4
+Mitsubishi,Mirage,78,74,CVT,FWD,13.51,4,"24,590",2022,Hatchback,1.2L I3,3
+Mitsubishi,Mirage G4,78,74,CVT,FWD,12.62,4,"124,990",2022,Sedan,1.2L I3,3
+Mitsubishi,Outlander Sport,148,145,CVT,FWD,11.76,4,"49,990",2022,SUV,2.0L I4,4
+Tesla,Model S,750,460,Automatic,AWD,11.76,4,"114,990",2023,Sedan,Electric,0
+Tesla,Model 3,330,450,Automatic,RWD,41.43,4,"52,190",2023,Sedan,Electric,0
+Tesla,Model X,700,880,Automatic,AWD,13.96,4,"31,490",2023,SUV,Electric,0
+Tesla,Model Y,340,442,Automatic,RWD,12.16,4,"30,290",2023,SUV,Electric,0
+Dodge,Challenger,450,470,Automatic,RWD,14.61,4,"33,090",2024,Coupe,V6/V8/HEMI,8
+Dodge,Charger,500,450,Automatic,RWD,13.96,4,"23,690",2024,Sedan,V6/V8/HEMI,8
+Dodge,Durango,330,350,Automatic,RWD,11.76,5,"29,995",2024,SUV,V6/V8,8
+Dodge,Journey,220,220,Automatic,FWD,14.84,5,"35,595",2024,SUV,4-cylinder,4
+Dodge,RAM 1500,310,401,Automatic,RWD,13.16,4,"39,145",2024,Truck,V6/V8,8
+Dodge,RAM 2500,350,460,Automatic,RWD,16.13,4,"29,995",2024,Truck,V6/V8,8
+Dodge,RAM 3500,375,460,Automatic,RWD,17.6,4,"35,595",2024,Truck,V6/V8,8
+Ram,1500,310,330,Automatic,RWD,17.6,4,"39,145",2024,Truck,V6/V8,8
+Ram,2500,370,460,Automatic,RWD,8.71,4,"109,995",2024,Truck,V6/V8,8
+Ram,3500,375,460,Automatic,RWD,7.79,4,"37,495",2024,Truck,V6/V8,8
+Ram,TRX,702,650,Automatic,RWD,8.71,4,"41,900",2024,Truck,V8,8
+Volvo,XC40,187,221,Automatic,FWD,8.71,5,"49,900",2024,SUV,4-cylinder,4
+Volvo,XC60,250,258,Automatic,FWD,8.71,5,"39,900",2024,SUV,4-cylinder,4
+Volvo,XC90,250,295,Automatic,FWD,8.71,5,"41,900",2024,SUV,4-cylinder,4
+Volvo,S60,250,258,Automatic,FWD,8.71,4,"45,900",2024,Sedan,4-cylinder,4
+Volvo,V60,250,258,Automatic,FWD,8.71,5,"49,900",2024,Wagon,4-cylinder,4
+Volvo,C40 Recharge,408,487,Automatic,FWD,8.71,5,"45,900",2024,SUV,Electric,0
+Volvo,XC40 Recharge,408,487,Automatic,FWD,11.2,5,"42,250",2024,SUV,Electric,0
+Volvo,Polestar 2,408,487,Automatic,RWD,8.71,5,"55,950",2024,Sedan,Electric,0
+Land Rover,Defender,296,317,Automatic,RWD,8.71,5,"40,900",2024,SUV,4-cylinder,4
+Land Rover,Discovery,355,369,Automatic,RWD,11.93,5,"87,995",2024,SUV,V6,6
+Land Rover,Discovery Sport,247,269,Automatic,FWD,11.2,5,"42,650",2024,SUV,4-cylinder,4
+Land Rover,Range Rover,395,406,Automatic,RWD,8.71,5,"68,250",2024,SUV,V6,6
+Land Rover,Range Rover Evoque,247,269,Automatic,FWD,8.71,5,"69,900",2024,SUV,4-cylinder,4
+Land Rover,Range Rover Sport,395,406,Automatic,RWD,12.4,5,"45,900",2024,SUV,V6,6
+Jaguar,I-PACE,395,516,Automatic,RWD,11.93,5,"65,000",2024,SUV,Electric,0
+Jaguar,F-PACE,296,317,Automatic,AWD,13.16,5,"39,900",2024,SUV,4-cylinder,4
+Jaguar,F-TYPE,380,339,Automatic,RWD,15.49,2,"49,900",2024,Coupe,V6,6
+Jaguar,XE,296,317,Automatic,RWD,13.96,4,"22,490",2024,Sedan,4-cylinder,4
+Jaguar,XF,380,339,Automatic,RWD,16.13,4,"24,990",2024,Sedan,V6,6
+Fiat,500,70,74,Manual,FWD,16.13,3,"24,990",2024,Hatchback,4-cylinder,4
+Fiat,500X,160,177,Automatic,FWD,16.13,5,"39,900",2024,SUV,4-cylinder,4
+Fiat,124 Spider,160,184,Manual,RWD,7.16,2,"70,900",2024,Convertible,4-cylinder,4
+Alfa Romeo,Giulia,280,306,Automatic,RWD,10,4,"41,900",2024,Sedan,4-cylinder,4
+Alfa Romeo,Giulia Quadrifoglio,505,443,Automatic,RWD,11.02,4,"79,900",2024,Sedan,V6,6
+Alfa Romeo,Stelvio,280,306,Automatic,AWD,9.19,5,"21,000",2024,SUV,4-cylinder,4
+Alfa Romeo,Stelvio Quadrifoglio,505,443,Automatic,AWD,7.84,5,"24,000",2024,SUV,V6,6
+Peugeot,208,108,138,Manual,FWD,12.89,5,"26,000",2024,Hatchback,3-cylinder,3
+Peugeot,2008,175,195,Automatic,FWD,16.34,5,"30,000",2024,SUV,3-cylinder,3
+Peugeot,308,158,184,Automatic,FWD,10.11,5,"34,000",2024,Sedan,4-cylinder,4
+Peugeot,3008,180,199,Automatic,FWD,9.54,5,"36,000",2024,SUV,4-cylinder,4
+Peugeot,508,272,332,Automatic,RWD,13.01,5,"19,740",2024,Sedan,V6,6
+Peugeot,5008,180,199,Automatic,FWD,8.71,7,"18,990",2024,SUV,4-cylinder,4
+Citroen,C1,70,74,Manual,FWD,7.84,3,"23,990",2024,Hatchback,3-cylinder,3
+Citroen,C3,109,122,Manual,FWD,7.84,5,"24,990",2024,Hatchback,3-cylinder,3
+Citroen,C3 Aircross,119,138,Automatic,FWD,8.35,5,"28,990",2024,SUV,3-cylinder,3
+Citroen,C4,153,170,Automatic,FWD,7.84,5,"27,990",2024,Sedan,4-cylinder,4
+Citroen,C5 Aircross,175,195,Automatic,FWD,10.53,5,"23,990",2024,SUV,4-cylinder,4
+Renault,Arkana,148,162,7-Speed DCT,FWD,9.19,5,"22,990",2024,SUV,4-cylinder,4
+Renault,Captur,154,184,7-Speed DCT,FWD,9.19,5,"26,990",2024,SUV,4-cylinder,4
+Renault,Clio,138,148,Manual,FWD,10.53,5,"29,990",2024,Hatchback,4-cylinder,4
+Renault,Megane,188,221,7-Speed DCT,FWD,12.95,5,"19,490",2024,Sedan,4-cylinder,4
+Renault,Zoe,134,184,Automatic,RWD,10.53,5,"22,990",2024,Hatchback,Electric,0
+Skoda,Fabia,95,118,Manual,FWD,11.76,5,"26,990",2024,Hatchback,3-cylinder,3
+Skoda,Scala,110,148,Manual,FWD,10.53,5,"32,990",2024,Hatchback,4-cylinder,4
+Skoda,Octavia,148,184,7-Speed DSG,FWD,11.49,5,"27,990",2024,Sedan,4-cylinder,4
+Skoda,Superb,188,221,7-Speed DSG,FWD,8.71,5,"32,990",2024,Sedan,4-cylinder,4
+Skoda,Karoq,148,184,7-Speed DSG,FWD,10.95,5,"39,990",2024,SUV,4-cylinder,4
+Skoda,Kodiaq,188,221,7-Speed DSG,FWD,11.49,7,"22,990",2024,SUV,4-cylinder,4
+Skoda,Enyaq iV,201,221,Automatic,RWD,8.71,5,"19,990",2024,SUV,Electric,0
+SEAT,Arona,110,148,Manual,FWD,10,5,"26,990",2024,SUV,4-cylinder,4
+SEAT,Ibiza,110,148,Manual,FWD,8.71,5,"26,990",2024,Hatchback,4-cylinder,4
+SEAT,Leon,148,184,7-Speed DSG,FWD,8.71,5,"28,990",2024,Sedan,4-cylinder,4
+SEAT,Leon Sportstourer,148,184,7-Speed DSG,FWD,8.71,5,"32,990",2024,Wagon,4-cylinder,4
+SEAT,Tarraco,188,221,7-Speed DSG,FWD,7.84,7,"15,490",2024,SUV,4-cylinder,4
+SEAT,Mii,70,74,Manual,FWD,12.95,3,"39,990",2024,Hatchback,3-cylinder,3
+SEAT,Born,201,221,Automatic,RWD,16.44,5,"15,490",2024,Hatchback,Electric,0
+Opel/Vauxhall,Adam,70,74,Manual,FWD,11.96,3,"18,000",2024,Hatchback,3-cylinder,3
+Opel/Vauxhall,Corsa,108,138,Manual,FWD,7.84,5,"26,000",2024,Hatchback,3-cylinder,3
+Opel/Vauxhall,Astra,158,184,Automatic,FWD,9.54,5,"34,000",2024,Sedan,4-cylinder,4
+Opel/Vauxhall,Insignia,272,332,Automatic,RWD,9.54,5,"24,000",2024,Sedan,V6,6
+Opel/Vauxhall,Mokka,175,195,Automatic,FWD,9.54,5,"30,000",2024,SUV,3-cylinder,3
+Opel/Vauxhall,Grandland,180,199,Automatic,FWD,9.05,5,"23,990",2024,SUV,4-cylinder,4
+Opel/Vauxhall,Crossland,119,138,Automatic,FWD,11.49,5,"18,000",2024,SUV,3-cylinder,3
+Opel/Vauxhall,Combo,108,138,Manual,FWD,9.54,5,"27,990",2024,Van,3-cylinder,3
+Opel/Vauxhall,Vivaro,148,184,Automatic,FWD,11.49,5,"32,990",2024,Van,4-cylinder,4
+Opel/Vauxhall,Movano,180,199,Automatic,FWD,9.79,7,"24,000",2024,Van,4-cylinder,4
+Mini,Cooper,134,162,Automatic,FWD,9.79,3,"28,000",2024,Hatchback,3-cylinder,3
+Mini,Cooper S,189,207,Automatic,FWD,9.79,3,"33,000",2024,Hatchback,4-cylinder,4
+Mini,John Cooper Works,228,236,Automatic,FWD,9.79,3,"30,000",2024,Hatchback,4-cylinder,4
+Mini,Cooper SE,181,199,Automatic,RWD,9.79,5,"29,000",2024,Hatchback,Electric,0
+Mini,Countryman,189,207,Automatic,FWD,9.79,5,"32,000",2024,SUV,4-cylinder,4
+Mini,Clubman,189,207,Automatic,AWD,9.79,5,"33,000",2024,Wagon,4-cylinder,4
+Mini,Paceman,189,207,Automatic,AWD,9.79,5,"40,000",2024,SUV,4-cylinder,4
+Mini,Countryman John Cooper Works,301,332,Automatic,AWD,9.79,5,"37,990",2024,SUV,4-cylinder,4
+Saab,09-May,250,273,Automatic,FWD,11.93,4,"32,990",2011,Sedan,turbocharged inline-4,4
+Saab,09-Mar,227,236,Automatic,FWD,11.93,4,"39,990",2011,Sedan,turbocharged inline-4,4
+Saab,9-3 Convertible,227,236,Automatic,FWD,8.71,2,"34,490",2011,Convertible,turbocharged inline-4,4
+Saab,9-5 SportCombi,250,273,Automatic,AWD,12.62,5,"84,995",2011,Wagon,turbocharged inline-4,4
+Dodge,Grand Caravan,283,260,Automatic,FWD,13.96,4,"90,390",2020,Van,Gasoline V6,6
+Dodge,Challenger SRT Demon,840,770,Automatic,RWD,10.95,2,"3,000,000",2018,Coupe,Gasoline V8,8
+Dodge,Viper,645,600,Manual,RWD,9.54,2,"1,700,000",2017,Coupe/Convertible,Gasoline V10,10
+Bugatti,Chiron,1500,1180,Automatic,AWD,10.95,2,"1,100,000",2023,Coupe,W16,16
+Bugatti,Veyron,1001,750,Automatic,AWD,10.95,2,"1,300,000",2015,Coupe,W16,16
+Bugatti,EB 110,552,451,Automatic,AWD,11.76,2,"74,390",1995,Coupe,W16,16
+Bugatti,EB 110 SS,611,451,Automatic,AWD,12.4,2,"102,390",1995,Coupe,W16,16
+Maserati,Ghibli,345,369,Automatic,RWD,11.76,4,"77,890",2023,Sedan,Twin-turbocharged V6,6
+Maserati,Quattroporte,424,428,Automatic,RWD,7.84,4,"134,300",2023,Sedan,Twin-turbocharged V6 or V8,8
+Maserati,Levante,345,369,Automatic,AWD,10,4,"78,490",2023,SUV,Twin-turbocharged V6,6
+Maserati,GranTurismo,454,384,Automatic,RWD,8,2,"134,000",2023,Coupe/Convertible,Naturally aspirated V8,8
+Lancia,Stratos HF,190,166,Manual,RWD,7.84,2,"400,000",1978,Coupe,2.4L V6,6
+Lancia,Delta Integrale,215,231,Manual,AWD,7.84,5,"50,000",1994,Hatchback,2.0L turbocharged inline-4,4
+Lancia,Thema 8.32,215,213,Manual,FWD,7.84,4,"40,000",1994,Sedan,3.0L V8,8
+Lancia,Aurelia B24,118,136,Manual,RWD,7.84,2,"2,600,000",1955,"Coupe, Convertible",2.5L V6,6
+Lancia,Fulvia,115,108,Manual,FWD,7.84,2,"1,500,000",1976,Coupe,1.3L inline-4,4
+Pagani,Huayra,730,738,Manual,RWD,7.84,2,"3,000,000",2023,Coupe,V12,12
+Pagani,Zonda,760,780,Manual,RWD,7.84,2,"2,600,000",2015,Coupe,V12,12
+Pagani,Huayra BC,789,811,Manual,RWD,7.84,2,"3,200,000",2018,Coupe,V12,12
+Pagani,Huayra R,851,811,Manual,RWD,7.84,2,"1,700,000",2023,Track Car,V12,12
+Pagani,Huayra Imola,827,821,Manual,RWD,7.84,2,"2,800,000",2023,Coupe,V12,12
+Koenigsegg,Gemera,0,0,Automatic,AWD,7.84,4,"2,200,000",2023,4-seater,Twin-turbocharged V8 + 3 electric motors,8
+Koenigsegg,Jesko,0,0,Automatic,RWD,7.84,2,"2,500,000",2023,Coupe,V8,8
+Koenigsegg,Regera,0,0,Direct Drive,AWD,7.84,2,"2,500,000",2023,Coupe,V8,8
+Koenigsegg,Agera RS,0,0,Automatic,RWD,7.84,2,"1,500,000",2018,Coupe,V8,8
+Koenigsegg,One:1,0,0,Automatic,RWD,7.84,2,"1,600,000",2016,Coupe,V8,8
+Koenigsegg,Agera S,0,0,Automatic,RWD,11.93,2,"4,800,000",2014,Coupe,V8,8
+Koenigsegg,Agera R,0,0,Automatic,RWD,13.16,2,"1,100,000",2013,Coupe,V8,8
+Koenigsegg,CCXR Trevita,0,885,Automatic,RWD,15.58,2,"1,600,000",2008,Coupe,V8,8
+Koenigsegg,CCX,806,752,Automatic,RWD,12.32,2,"600,000",2007,Coupe,V8,8
+Koenigsegg,CCXR,806,885,Automatic,RWD,8,2,"750,000",2008,Coupe,V8,8
+Koenigsegg,CC,806,752,Manual,RWD,26.13,2,"35,900",2004,Coupe,V8,8
+Koenigsegg,CC8S,806,752,Manual,RWD,26.13,2,"47,700",2006,Coupe,V8,8
+Genesis,G70,300,295,Automatic,RWD,26.13,4,"42,250",2023,Sedan,Inline-4,4
+Genesis,G80,375,391,Automatic,RWD,26.13,4,"47,700",2023,Sedan,V6,6
+Genesis,GV70,300,295,Automatic,RWD,8.07,5,"77,900",2023,SUV,Inline-4,4
+Genesis,GV80,375,391,Automatic,AWD,12.55,5,"155,000",2023,SUV,V6,6
+Genesis,GV90,375,391,Automatic,AWD,11.83,7,"59,900",2023,SUV,V6,6
+Polestar,Polestar 1,619,738,Automatic,AWD,11.76,2,"61,900",2022,Coupe,Electric,0
+Polestar,Polestar 2,408,487,Direct Drive,AWD,10.59,4,"77,400",2022,Crossover,Electric,0
+Polestar,Polestar 3,476,502,Automatic,AWD,4.02,5,"169,000",2023,Sedan,Electric,0
+Lucid Motors,Lucid Air,819,908,Automatic,AWD,2.57,5,"67,500",2023,Sedan,Electric,0
+Lucid Motors,Lucid Air Dream Edition Performance,0,0,Automatic,AWD,1.8,5,"70,000",2023,Sedan,Electric,0
+Rivian,R1T,835,908,Automatic,AWD,9.08,5,"180,000",2023,Pickup truck,Electric,0
+Rivian,R1S,835,908,Automatic,AWD,9.53,5,"180,000",2023,SUV,Electric,0
+Faraday Future,FF 91,1050,1000,Automatic,AWD,14.29,5,"74,900",2023,SUV,Electric,0
+Faraday Future,FF 91,1050,1000,Automatic,AWD,14.29,5,"84,900",2023,SUV,Electric,0
+Alpina,B3,455,516,Automatic,AWD,10.53,4,"94,900",2023,Sedan,Twin-turbocharged inline-6,6
+Alpina,B4,533,553,Automatic,AWD,11.67,5,"139,900",2023,Wagon,Twin-turbocharged inline-6,6
+Alpina,B5,533,553,Automatic,AWD,12.59,5,"149,900",2023,Sedan,Twin-turbocharged inline-6,6
+Alpina,B7,612,590,Automatic,AWD,11.76,5,"33,295",2023,Sedan,Twin-turbocharged V8,8
+Alpina,XB7,612,590,Automatic,AWD,13.8,7,"46,295",2023,SUV,Twin-turbocharged V8,8
+Cadillac,CT4,237,295,Automatic,RWD,12.59,4,"39,995",2023,Sedan,Turbocharged inline-4,4
+Cadillac,CT4-V,325,380,Automatic,AWD,13.33,4,"55,795",2023,Sedan,Twin-turbocharged inline-4,4
+Cadillac,CT5,237,295,Automatic,RWD,14.29,4,"84,995",2023,Sedan,Turbocharged inline-4,4
+Cadillac,CT5-V,360,405,Automatic,AWD,16,4,"76,295",2023,Sedan,Twin-turbocharged V6,6
+Cadillac,CT5-V Blackwing,668,659,Manual,RWD,14.55,2,"35,795",2023,Sedan,Naturally aspirated V8,8
+Cadillac,Escalade,420,460,Automatic,AWD,12.97,4,"41,795",2023,SUV,V8,8
+Cadillac,XT4,237,295,Automatic,FWD,14.48,5,"59,995",2023,SUV,Turbocharged inline-4,4
+Cadillac,XT5,237,295,Automatic,FWD,13.33,5,"27,995",2023,SUV,Turbocharged inline-4,4
+Cadillac,XT6,310,271,Automatic,AWD,8.09,7,"31,995",2023,SUV,Twin-turbocharged V6,6
+Caterham,Seven 170,170,127,Manual,RWD,9.46,2,"36,995",2023,Sports car,4-cylinder,4
+Caterham,Seven 270,270,177,Manual,RWD,10.27,2,"41,995",2023,Sports car,4-cylinder,4
+Caterham,Seven 360,360,221,Manual,RWD,11.61,2,"54,995",2023,Sports car,4-cylinder,4
+Caterham,Seven 420,420,265,Manual,RWD,12.59,2,"32,145",2023,Sports car,4-cylinder,4
+Caterham,Seven 620,620,321,Manual,RWD,12.16,2,"32,995",2023,Sports car,4-cylinder,4
+Chrysler,300,363,394,Automatic,RWD,11.76,4,"26,995",2023,Sedan,V6,6
+Chrysler,Pacifica,287,262,Automatic,FWD,12.28,3,"45,995",2023,Minivan,V6,6
+Chrysler,Voyager,287,262,Automatic,FWD,12.59,4,"37,499",2023,Minivan,V6,6
+Chrysler,Pacifica Hybrid,260,253,ECVT,FWD,11.76,4,"29,999",2023,Minivan,Hybrid,4
+Fisker,Ocean,275,450,Direct Drive,RWD,12.8,5,"37,400",2023,SUV,Electric,0
+Fisker,Pear,350,516,Direct Drive,RWD,11.2,4,"45,900",2023,Sedan,Electric,0
+Infiniti,QX50,268,280,Automatic,FWD,9.98,5,"72,900",2023,SUV,4-cylinder,4
+Infiniti,QX60,295,270,Automatic,FWD,9.07,7,"36,900",2023,SUV,V6,6
+Infiniti,QX80,400,400,Automatic,AWD,7.84,4,"41,900",2023,SUV,V8,8
+Infiniti,Q50,300,295,Automatic,RWD,6.55,4,"62,900",2023,Sedan,V6,6
+Infiniti,Q60,300,295,Automatic,RWD,9.07,2,"68,900",2023,Coupe,V6,6
+Infiniti,QX70,390,369,Automatic,AWD,9.07,5,"40,520",2023,SUV,V8,8
+Infiniti,QX70 Hybrid,360,273,Automatic,AWD,9.07,5,"25,620",2023,SUV,Hybrid,6
+Isuzu,Ascender,281,307,Automatic,AWD,9.07,4,"39,990",2023,SUV,V6,6
+Isuzu,D-Max,302,236,Automatic,RWD,8.07,5,"31,320",2023,Pickup Truck,Diesel,4
+Isuzu,MU-X,255,236,Automatic,4WD,9.98,5,"25,120",2023,SUV,Diesel,4
+Isuzu,NPR,215,430,Manual,RWD,8.49,3,"33,920",2023,Truck,Diesel,6
+Isuzu,NQR,181,401,Manual,RWD,9.53,3,"72,900",2023,Truck,Diesel,4
+Isuzu,FTR,181,401,Manual,RWD,8.18,3,"59,900",2023,Truck,Diesel,4
+Lotus,Emira,400,310,Automatic,RWD,9.7,2,"71,900",2023,Sports car,V6,6
+Lotus,Elise,250,184,Manual,RWD,9.46,2,2,2023,Sports car,4-cylinder,4
+Lotus,Exige,300,260,Manual,RWD,8.8,2,"120,000",2023,Sports car,V6,6
+Lotus,Evija,2000,0,Direct Drive,RWD,8.71,2,"79,995",2023,Electric hypercar,Electric,0
+Morgan,Aero 8,367,295,Manual,RWD,6.55,2,"109,995",2023,Sports car,V8,8
+Morgan,Plus 4,180,163,Manual,RWD,5.66,2,"79,995",2023,Sports car,4-cylinder,4
+Morgan,Plus 6,335,280,Manual,RWD,8.6,2,"34,995",2023,Sports car,V6,6
+Morgan,Roadster,180,163,Manual,RWD,7.84,2,"22,450",2023,Sports car,4-cylinder,4
+Morgan,Super 3,170,127,Manual,RWD,5.9,2,"24,450",2023,Sports car,3-cylinder,3
+Smart,Fortwo,89,128,Automatic,FWD,7.84,2,"44,990",2023,City car,3-cylinder,1
+Smart,Forfour,91,128,Automatic,FWD,9.07,4,"15,299",2023,City car,3-cylinder,1
+Suzuki,Across,335,369,CVT,AWD,9.46,5,"14,499",2023,SUV,Hybrid,4
+Suzuki,Baleno,110,113,Manual,FWD,12.8,5,"18,499",2023,Hatchback,4-cylinder,4
+Suzuki,Celerio,68,67,Manual,FWD,14.03,5,"21,299",2023,Hatchback,3-cylinder,1
+Suzuki,Ciaz,115,113,Automatic,FWD,16.77,4,"25,299",2023,Sedan,4-cylinder,4
+Suzuki,Jimny,101,96,Manual,4WD,17.05,3,"16,299",2023,SUV,4-cylinder,4
+Suzuki,S-Cross,148,132,Automatic,AWD,11.76,5,"26,299",2023,Crossover,4-cylinder,4
+Suzuki,Swift,103,101,Manual,FWD,8.4,5,"29,299",2023,Hatchback,4-cylinder,4
+Suzuki,Vitara,148,132,Automatic,AWD,8.07,5,"15,995",2023,SUV,4-cylinder,4
+Suzuki,XL7,181,184,Automatic,AWD,9.08,7,"20,495",2023,SUV,4-cylinder,4
+Vauxhall,Corsa,108,127,Automatic,FWD,9.72,5,"24,495",2023,Hatchback,3-cylinder,1
+Vauxhall,Crossland,108,127,Automatic,FWD,10.71,5,"25,495",2023,Crossover,3-cylinder,1
+Vauxhall,Grandland,177,207,Automatic,FWD,11.29,5,"20,495",2023,SUV,4-cylinder,4
+Vauxhall,Insignia,177,207,Automatic,FWD,11.29,5,"24,595",2023,Sedan,4-cylinder,4
+Vauxhall,Mokka,138,174,Automatic,FWD,11.76,5,"22,595",2023,SUV,3-cylinder,1
+Vauxhall,Vivaro,130,236,Automatic,FWD,10.43,5,"1,000,000",2023,Van,4-cylinder,4
+Vauxhall,Combo-Life,130,236,Automatic,FWD,11.03,5,"500,000",2023,MPV,4-cylinder,4
+Zagato,Aston Martin DB4 GT Zagato,316,278,Manual,RWD,9.33,2,"400,000",1962,Coupé,Inline 6,6
+Zagato,Aston Martin V12 Zagato,510,420,Manual,RWD,10,2,"300,000",2012,Coupé,V12,12
+Zagato,Alfa Romeo TZ3 Stradale,395,295,Manual,RWD,10,2,"40,000",2013,Coupé,V8,8
+Zagato,Bentley Flying Spur Zagato,621,605,Automatic,AWD,10,5,"1,000,000",2014,Saloon,W12,12
+Zagato,Fiat 124 Spider Zagato,158,184,Manual,RWD,10.43,2,"200,000",2014,Roadster,4-cylinder,4
+Zagato,Jaguar C-Type,300,270,Manual,RWD,9.46,2,"150,000",1953,Coupé,Straight 6,6
+Wiesmann,MF5,555,680,Automatic,RWD,8.4,2,"130,000",2013,2-door sports car,V8,8
+Wiesmann,GT MF4,420,442,Manual,RWD,10,2,"420,000",2013,2-door sports car,V9,8
+Wiesmann,Roadster MF4,360,420,Manual,RWD,8.13,2,"200,000",2014,2-door sports car,V10,8
+Lamborghini,Aventador,760,560,Manual,AWD,9.46,2,"211,000",2023,2-door sports car,V12,12
+Lamborghini,Huracan,631,443,Automatic,AWD,9.86,2,"3,200,000",2023,2-door sports car,V10,10
+Lamborghini,Urus,650,642,Automatic,AWD,9.86,4,"180,000",2023,5-door SUV,V8,8
+Lamborghini,Sian,819,531,Manual,AWD,9.86,2,"275,000",2023,2-door sports car,V12,12
+Lamborghini,Countach,449,369,Manual,RWD,9.86,2,"375,000",1990,2-door sports car,V12,12
+Lamborghini,Diablo,570,463,Manual,RWD,10.71,2,"200,000",2001,2-door sports car,V12,12
+Lamborghini,Murciélago,631,487,Manual,RWD,8.71,2,"120,000",2010,2-door sports car,V12,12
+Lamborghini,Gallardo,562,413,Manual,RWD,7.84,2,"100,000",2013,2-door sports car,V10,10
+Lamborghini,Espada,350,339,Manual,RWD,9.33,2,"25,295",1978,2-door grand tourer,V12,12
+Lamborghini,Miura,350,284,Manual,RWD,8.07,2,"20,075",1972,2-door sports car,V12,12
+Toyota,Camry,203,184,Automatic,FWD,11.76,4,"26,225",2023,Sedan,4-cylinder,4
+Toyota,Corolla,139,126,Automatic,FWD,9.62,4,"34,625",2023,Sedan,4-cylinder,4
+Toyota,RAV4,203,184,Automatic,FWD,9.62,5,"25,295",2023,SUV,4-cylinder,4
+Toyota,Highlander,295,263,Automatic,FWD,9.62,8,"24,525",2023,SUV,V6,6
+Toyota,Tacoma,159,184,Automatic,RWD,11.76,4,"66,000",2023,Truck,4-cylinder,4
+Toyota,Prius,139,126,Automatic,FWD,8.07,5,"49,995",2023,Hybrid,4-cylinder,4
+Toyota,Mirai,182,221,Fuel cell electric,RWD,7.84,4,"26,225",2023,Sedan,Fuel cell,1
+Toyota,GR Supra,382,368,Automatic,RWD,8.71,2,"11,000",2023,Sports car,Inline-6,6
+Toyota,86,205,156,Manual,RWD,9.7,2,"15,000",2023,Sports car,Boxer,4
+Suzuki,Alto,71,63,Manual,FWD,10.71,5,"20,000",2023,Hatchback,4-cylinder,4
+Suzuki,Baleno,101,103,Automatic,FWD,7.84,5,"17,000",2023,Hatchback,4-cylinder,4
+Suzuki,Jimny,101,96,Manual,4WD,6.55,3,"23,000",2023,SUV,4-cylinder,4
+Suzuki,Swift,110,113,Automatic,FWD,10.91,5,"20,000",2023,Hatchback,4-cylinder,4
+Suzuki,Vitara,148,132,Automatic,FWD,9.7,5,"25,000",2023,SUV,4-cylinder,4
+Suzuki,Ertiga,103,104,Automatic,FWD,16.34,7,"24,770",2023,MPV,4-cylinder,4
+Suzuki,XL7,158,145,Automatic,FWD,19.52,7,"21,700",2023,SUV,4-cylinder,4
+Honda,Accord,192,192,Automatic,FWD,17.17,4,"25,295",2023,Sedan,4-cylinder,4
+Honda,Civic,158,138,Automatic,FWD,12.39,4,"21,700",2023,Sedan,4-cylinder,4
+Honda,CR-V,190,179,Automatic,FWD,10.59,5,"31,470",2023,SUV,4-cylinder,4
+Honda,HR-V,158,138,Automatic,FWD,1.98,5,"36,295",2023,SUV,4-cylinder,4
+Honda,Odyssey,280,262,Automatic,FWD,1.81,8,"23,695",2023,Minivan,V6,6
+Honda,Pilot,280,262,Automatic,FWD,1.81,8,"156,000",2023,SUV,V6,6
+Honda,Insight,151,134,Automatic,FWD,14.23,5,"31,995",2023,Hybrid,4-cylinder,4
+Honda,NSX,573,492,Automatic,RWD,12.8,2,"25,295",2023,Sports car,V6,6
+Honda,S2000,240,162,Manual,RWD,14.29,2,"21,700",2009,Sports car,4-cylinder,4
+Chevrolet,Camaro,335,290,Automatic,RWD,14.29,2,"31,470",2023,Sports car,V6,6
+Chevrolet,Corvette,490,460,Automatic,RWD,12.05,2,"36,295",2023,Sports car,V8,8
+Chevrolet,Cruze,153,138,Automatic,FWD,11.58,4,"23,695",2023,Sedan,4-cylinder,4
+Chevrolet,Equinox,170,174,Automatic,FWD,12.94,5,"156,000",2023,SUV,4-cylinder,4
+Chevrolet,Silverado 1500,355,383,Automatic,RWD,10.71,4,"31,995",2023,Truck,V8,8
+Chevrolet,Silverado 2500HD,420,460,Automatic,RWD,8.07,4,"25,995",2023,Truck,V8,8
+Chevrolet,Suburban,355,383,Automatic,RWD,9.86,8,"59,995",2023,SUV,V8,8
+Chevrolet,Tahoe,355,383,Automatic,RWD,11.24,8,"19,995",2023,SUV,V8,8
+Chevrolet,Trax,138,148,Automatic,FWD,8.13,5,"25,295",2023,SUV,4-cylinder,4
+Chevrolet,Trailblazer,230,258,Automatic,FWD,10.71,5,"25,995",2023,SUV,4-cylinder,4
+Renault,Arkana,148,148,Automatic,FWD,11.4,5,"35,295",2023,SUV,4-cylinder,4
+Renault,Clio,138,148,Automatic,FWD,9.06,5,"51,995",2023,Hatchback,4-cylinder,4
+Renault,Captur,148,148,Automatic,FWD,11.4,5,"49,995",2023,SUV,4-cylinder,4
+Renault,Koleos,181,184,Automatic,FWD,11.4,5,"31,995",2023,SUV,4-cylinder,4
+Renault,Megane,181,184,Automatic,FWD,12.8,5,"25,995",2023,Sedan,4-cylinder,4
+Renault,Zoe,134,184,Automatic,FWD,11.67,5,"59,995",2023,Electric car,Electric,0
+Tata Motors,Punch,85,83,Manual,FWD,14.03,5,"19,995",2023,SUV,1.2L naturally aspirated petrol,3
+Tata Motors,Nexon,108,125,Manual,FWD,14.03,5,"25,295",2023,SUV,"1.2L turbocharged petrol, 1.5L turbocharged diesel",4
+Tata Motors,Harrier,170,259,Automatic,AWD,14.03,5,"25,995",2023,SUV,2.0L turbocharged petrol,4
+Tata Motors,Safari,170,259,Automatic,AWD,9.46,7,"35,295",2023,SUV,2.0L turbocharged petrol,4
+Tata Motors,Altroz,90,83,Manual,FWD,8.13,5,"51,995",2023,Hatchback,1.2L turbocharged petrol,3
+Tata Motors,Tiago,70,70,Manual,FWD,14.48,5,"49,995",2023,Hatchback,1.2L naturally aspirated petrol,3
+Tata Motors,Tigor,70,70,Manual,FWD,17.05,5,"20,995",2023,Sedan,1.2L naturally aspirated petrol,3
+Tata Motors,Thar,117,184,Automatic,RWD,10.64,5,"25,995",2023,SUV,2.0L turbocharged diesel,4
